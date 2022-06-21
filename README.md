@@ -4,7 +4,6 @@
 - I've a knowldge in some technologies like Javascript, Jquery, Bootstrap, Vue.js, PHP, Laravel, SQL.
 - Knowldges in API Rest, Addon's for WHMCS, Webhooks.
 - I work currently with some e-commerces like Wordpress (woocommerce), Opencart 2.x/3.x, Prestashop and Magento.
-- I’m looking to collaborate on ...
 - You can reach me in almirfserra@gmail.com
 
 <!---
