@@ -21,7 +21,7 @@ Sou **Almir Serra**, Tech Lead e Solutions Architect, com atuação em projetos 
 
 Meu trabalho passa por **modernização de sistemas legados, IA corporativa, integração de ERPs, automação e governança tecnológica**. Da decisão de arquitetura à operação, o foco é construir uma base que permita ao negócio evoluir.
 
-<img src="assets/system-flow.svg" width="100%" alt="Negócio: demandas e processos. Engenharia: arquitetura, APIs e IA. Operação: segurança, observabilidade e evolução contínua." />
+<img src="assets/system-flow-tunnels-v2.svg" width="100%" alt="Túneis de luz conectando Negócio, Engenharia e Operação: demandas, arquitetura, APIs, IA, segurança e observabilidade." />
 
 ### 02 / Sistemas que ajudei a colocar em movimento
 
