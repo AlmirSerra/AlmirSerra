@@ -25,6 +25,24 @@ Meu trabalho passa por **modernização de sistemas legados, IA corporativa, int
 
 ### 02 / Sistemas que ajudei a colocar em movimento
 
+#### Destaque · Mailler + Mala Direta
+
+**Do planejamento da campanha ao envio: duas plataformas conectadas.**
+
+Implantação e evolução do **Mailler, baseado em Postal**, integrado à **Mala Direta, baseada em Listmonk**. A Mala Direta organiza listas, contatos, templates e campanhas; o Mailler sustenta o envio com uma infraestrutura de **16 IPs**, processamento por workers e gestão de filas.
+
+| Volume da campanha | Antes | Depois |
+| :---: | :---: | :---: |
+| **≈ 16 mil e-mails** | **Mais de 24 horas** | **≈ 20 minutos** |
+
+**Redução de aproximadamente 98,6% no tempo de envio**, tomando 24 horas como referência conservadora. Resultado operacional relatado; os tempos variam conforme a campanha e os servidores de destino.
+
+**Minha atuação:** implantação e integração das plataformas, configuração da infraestrutura de envio, ajuste de concorrência dos workers, diagnóstico de filas e falhas, além da estruturação do uso de listas, templates e testes antes do disparo.
+
+`Postal` `Listmonk` `SMTP` `Docker` `Workers` `Filas` `Campanhas`
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
